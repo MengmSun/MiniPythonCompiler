@@ -12,7 +12,7 @@
 
 实现状况如下：
 
-![image-20200116140943001](/Users/catcher/Library/Application Support/typora-user-images/image-20200116140943001.png)
+![image](https://github.com/MengmSun/MiniPythonCompiler/blob/master/Example.png)
 
 
 
